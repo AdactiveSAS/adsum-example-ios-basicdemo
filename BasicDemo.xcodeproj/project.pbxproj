@@ -327,10 +327,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/BasicDemo",
 				);
-				HEADER_SEARCH_PATHS = (
-					"\"$(SRCROOT)/BasicDemo/AdsumIOSAPI.framework/Headers\"",
-					"\"$(SRCROOT)/../../../CppSDK/Wrappers/IOS/IOS_step_2/AdsumCoreNativeAPI\"",
-				);
+				HEADER_SEARCH_PATHS = "\"$(SRCROOT)/BasicDemo/AdsumIOSAPI.framework/Headers\"";
 				INFOPLIST_FILE = BasicDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -356,10 +353,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/BasicDemo",
 				);
-				HEADER_SEARCH_PATHS = (
-					"\"$(SRCROOT)/BasicDemo/AdsumIOSAPI.framework/Headers\"",
-					"\"$(SRCROOT)/../../../CppSDK/Wrappers/IOS/IOS_step_2/AdsumCoreNativeAPI\"",
-				);
+				HEADER_SEARCH_PATHS = "\"$(SRCROOT)/BasicDemo/AdsumIOSAPI.framework/Headers\"";
 				INFOPLIST_FILE = BasicDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
